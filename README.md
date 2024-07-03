@@ -1,5 +1,3 @@
-Here's a draft README file for the age prediction project based on the information provided:
-
 # Age Prediction from Facial Images
 
 ## Project Overview
