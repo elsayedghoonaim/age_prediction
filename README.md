@@ -69,8 +69,4 @@ The CNN architecture consists of:
 
 ## Contributors
 
-[Your Name/Team]
-
-## License
-
-[Specify the license under which this project is released]
+[Elsayed Ghonaim]
