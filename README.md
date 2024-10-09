@@ -63,10 +63,6 @@ The CNN architecture consists of:
 - Implement data augmentation techniques
 - Explore transfer learning with pre-trained models
 
-## Usage
-
-[Include instructions on how to run the code, if any specific setup is required]
-
 ## Contributors
 
 [Elsayed Ghonaim]
